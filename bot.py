@@ -18,9 +18,9 @@ FORCE_CHANNEL = "YOUR_CHANNEL_USWRNAME" #link is look likes start from t.me/ of 
 # SERVER 1 - Fixed (With Refund)
 SERVER1_API_URL = "YOUR_SMM_PANEL_API_URL" #its looks like (https://yoursmm/api/v2)
 SERVER1_API_KEY = "SMM_API"
-SERVER1_MARKUP = "ENTER_THE_COMISSION_IN_NUMBER"  #remove("")
+SERVER1_MARKUP = ENTER_THE_COMISSION_IN_NUMBER #remove("")
 
-MARKUP_PERCENTAGE = "COMISSION_NUMBER"  #remove ("")
+MARKUP_PERCENTAGE = COMISSION_NUMBER  #remove ("")
 DATA_FILE = "smm_panel_data.json"
 SERVICES_CACHE_DURATION = 7200
 PAYMENT_GROUP = "PAYMENT_GROUP_USERNAME"  #your deposit request was come on that group so please make the admin of that bot
