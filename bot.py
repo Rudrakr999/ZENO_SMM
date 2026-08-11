@@ -18,9 +18,9 @@ FORCE_CHANNEL = "@nomethod1"
 # SERVER 1 - Fixed (With Refund)
 SERVER1_API_URL = "https://mysmmprovider.com/api/v2"
 SERVER1_API_KEY = "9cdc83908518bfcca287d839cf20b566"
-SERVER1_MARKUP = 5
+SERVER1_MARKUP = 1
 
-MARKUP_PERCENTAGE = 5
+MARKUP_PERCENTAGE = 1
 DATA_FILE = "smm_panel_data.json"
 SERVICES_CACHE_DURATION = 7200
 PAYMENT_GROUP = "@payment_gd18"
