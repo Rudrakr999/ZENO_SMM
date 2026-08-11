@@ -11,9 +11,9 @@ from telegram import Update, ReplyKeyboardMarkup, InlineKeyboardButton, InlineKe
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, ConversationHandler, ContextTypes, filters
 
 # ==================== CONFIGURATION ====================
-BOT_TOKEN = "8263168035:AAEL3b6IDQKH4smftqrSYzwI96DM0JHSbJE"
-ADMIN_ID = 7037961095
-FORCE_CHANNEL = "@nomethod0"
+BOT_TOKEN = "8930441249:AAGE0eiqi1ox7hjX0kNLyV74iV1FM3m3QIs"
+ADMIN_ID = 8321630022
+FORCE_CHANNEL = "@nomethod1"
 
 # SERVER 1 - Fixed (With Refund)
 SERVER1_API_URL = "https://mysmmprovider.com/api/v2"
